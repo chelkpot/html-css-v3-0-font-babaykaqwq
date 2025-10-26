@@ -1,0 +1,17 @@
+#qwq{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 50px;
+    text-decoration:overline;
+    text-align:center;
+    text-indent:10px;
+    text-transform:lowercase;
+}
+a{
+    text-decoration:none;
+}
+#zxc:hover{
+    color: cornflowerblue;
+}
